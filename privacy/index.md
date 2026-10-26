@@ -25,9 +25,9 @@ Auto Wi-Fi Switcher（以下稱「本 App」）由個人開發者 bcjohn 開發�
 在「⋮ → 問題回報」按下「送出」時，本 App 才會將以下內容傳送到開發者的 Google 表單（儲存於 Google 試算表，僅開發者可檢視），用於排查問題與評估功能需求：
 
 - 您填寫的內容：回報類型、描述、Email（選填）、Android 版本、手機型號
-- 診斷資訊：App 版本與設定、權限狀態、監測執行狀況、最近 7 天切換結果（僅時間、結果與訊號強度）、App 被系統關閉的原因，以及裝置資訊（製造商與型號、Android 版本與安全性更新、背景限制與省電狀態、Wi-Fi 功能與目前連線的頻率與訊號、記憶體、螢幕、語言與時區、電量、安裝來源）
+- 診斷資訊：App 版本與設定、您管理的 Wi-Fi 名稱（不含密碼）與目前連線的 Wi-Fi 名稱、權限狀態、監測執行狀況與排程、最近 7 天切換結果與最近 10 筆切換紀錄（時間、來源與目標 Wi-Fi 名稱、訊號強度與結果）、App 被系統關閉的原因，以及裝置資訊（製造商與型號、Android 版本與安全性更新、背景限制與省電狀態、Wi-Fi 功能與目前連線的頻率與訊號、記憶體、螢幕、語言與時區、電量、安裝來源）
 
-診斷資訊**不含** Wi-Fi 名稱、基地台位址、Wi-Fi 密碼、地理位置、廣告 ID 或任何裝置識別碼。按下「送出」前不會收集或傳送任何資料。若要刪除您送出的回報，請來信聯絡。
+診斷資訊**不含**基地台位址、Wi-Fi 密碼、地理位置、廣告 ID 或任何裝置識別碼；Wi-Fi 名稱只用於回覆您的問題。按下「送出」前不會收集或傳送任何資料。若要刪除您送出的回報，請來信聯絡。
 
 ### 第三方服務
 
@@ -62,9 +62,9 @@ Auto Wi-Fi Switcher ("the app") is developed by an individual developer, bcjohn.
 Only when you tap Send under ⋮ → Report a problem does the app send the following to the developer's Google Form (stored in a Google Sheet that only the developer can see), to investigate issues and weigh feature requests:
 
 - What you fill in: report type, description, email (optional), Android version and phone model
-- Diagnostics: app version and settings, permission status, monitoring status, switch results from the last 7 days (time, outcome and signal strength only), the reasons the system closed the app, and device information (manufacturer and model, Android version and security patch, background restriction and battery saver state, Wi-Fi capabilities and the current connection's frequency and signal, memory, screen, language and time zone, battery level, install source)
+- Diagnostics: app version and settings, the names of the Wi-Fi networks you manage (never their passwords) and of the one you are connected to, permission status, monitoring status and schedule, switch results from the last 7 days and the last 10 switches (time, source and target Wi-Fi names, signal strength and outcome), the reasons the system closed the app, and device information (manufacturer and model, Android version and security patch, background restriction and battery saver state, Wi-Fi capabilities and the current connection's frequency and signal, memory, screen, language and time zone, battery level, install source)
 
-Diagnostics **never include** Wi-Fi names, access point addresses, Wi-Fi passwords, your location, the advertising ID or any device identifier. Nothing is collected or sent before you tap Send. To have a report you sent deleted, email us.
+Diagnostics **never include** access point addresses, Wi-Fi passwords, your location, the advertising ID or any device identifier; Wi-Fi names are used only to answer your report. Nothing is collected or sent before you tap Send. To have a report you sent deleted, email us.
 
 ### Third-party services
 
