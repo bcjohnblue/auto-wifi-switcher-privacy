@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Auto Wi-Fi Switcher 隱私政策 / Privacy Policy
 
-最後更新 / Last updated: 2026-10-26
+最後更新 / Last updated: 2026-10-28
 
 ## 繁體中文
 
@@ -37,7 +37,12 @@ Auto Wi-Fi Switcher（以下稱「本 App」）由個人開發者 bcjohn 開發�
 
 ### 資料刪除
 
-移除本 App 或在系統設定中清除資料，即可刪除所有本機資料（含加密的 Wi-Fi 密碼與切換紀錄）。已送出的問題回報請來信要求刪除。
+Auto Wi-Fi Switcher 不需要也不提供帳號，資料分兩種：
+
+1. **手機上的資料**（設定、管理的 Wi-Fi 清單、加密的 Wi-Fi 密碼、切換紀錄）：只存在您的手機，開發者無法取得。移除本 App，或在系統設定 → 應用程式 → Auto Wi-Fi Switcher → 儲存空間中「清除資料」，即全部刪除。切換紀錄也可在 App 的切換紀錄頁按「清除」。
+2. **已送出的問題回報**（描述、選填的電子郵件、Android 版本、手機型號、診斷資訊）：請寄信到 bcjohnblue@gmail.com，主旨寫「刪除問題回報」，並附上送出的大約日期，以及回報時填的電子郵件或描述內容，以便找到那一筆。我們會在 30 天內刪除並回信確認。
+
+問題回報只用於回覆與修正問題，處理完畢後最多保留 12 個月即自動刪除。
 
 ### 聯絡
 
@@ -74,7 +79,12 @@ Diagnostics **never include** access point addresses, Wi-Fi passwords, your loca
 
 ### Deleting your data
 
-Uninstall the app or clear its data in system settings to delete everything stored locally, including encrypted Wi-Fi passwords and the switch log. To delete a problem report you sent, email us.
+Auto Wi-Fi Switcher has no accounts. There are two kinds of data:
+
+1. **Data on your phone** (settings, your managed Wi-Fi list, encrypted Wi-Fi passwords, the switch log) stays on your phone and never reaches the developer. Uninstall the app, or go to system Settings → Apps → Auto Wi-Fi Switcher → Storage and tap Clear data, to delete all of it. You can also clear the switch log from the app's Switch log screen.
+2. **Problem reports you sent** (description, optional email, Android version, phone model, diagnostics): email bcjohnblue@gmail.com with the subject "Delete problem report", the approximate date you sent it, and the email or description you entered so we can find it. We delete it within 30 days and reply to confirm.
+
+Problem reports are used only to answer and fix the issue and are deleted automatically at most 12 months after it is resolved.
 
 ### Contact
 
