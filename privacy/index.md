@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Auto Wi-Fi Switcher 隱私政策 / Privacy Policy
 
-最後更新 / Last updated: 2026-10-28
+最後更新 / Last updated: 2026-10-29
 
 ## 繁體中文
 
@@ -17,7 +17,7 @@ Auto Wi-Fi Switcher（以下稱「本 App」）由個人開發者 bcjohn 開發�
 | 附近 Wi-Fi 的掃描結果（名稱、基地台位址、訊號強度） | 判斷是否有訊號更強的 Wi-Fi 可切換 | 僅在記憶體中處理，不保存 |
 | 定位權限（含背景） | Android 規定讀取 Wi-Fi 掃描結果必須持有定位權限；背景定位讓監測在重開機後自動恢復。本 App **不會取得、計算或儲存您的地理位置** | 不適用 |
 | 您在 App 中輸入的 Wi-Fi 密碼（僅自動模式） | 交給 Android 系統以自動連線 | 以 Android Keystore 的硬體金鑰 AES-GCM 加密後存於裝置本機，排除於雲端備份，絕不傳送 |
-| 切換紀錄（時間、來源與目標 Wi-Fi、訊號） | 顯示最近一次切換與切換紀錄 | 裝置本機資料庫，30 天後自動刪除，也可在切換紀錄頁手動清除 |
+| 切換紀錄（時間、來源與目標 Wi-Fi、訊號） | 顯示最近一次切換與切換紀錄 | 裝置本機資料庫，30 天後自動刪除 |
 | 購買狀態 | 判斷 Pro 權益 | 由 Google Play 提供，本 App 僅快取「是否為 Pro」 |
 
 ### 問題回報（僅在您按下「送出」時）
@@ -39,7 +39,7 @@ Auto Wi-Fi Switcher（以下稱「本 App」）由個人開發者 bcjohn 開發�
 
 Auto Wi-Fi Switcher 不需要也不提供帳號，資料分兩種：
 
-1. **手機上的資料**（設定、管理的 Wi-Fi 清單、加密的 Wi-Fi 密碼、切換紀錄）：只存在您的手機，開發者無法取得。移除本 App，或在系統設定 → 應用程式 → Auto Wi-Fi Switcher → 儲存空間中「清除資料」，即全部刪除。切換紀錄也可在 App 的切換紀錄頁按「清除」。
+1. **手機上的資料**（設定、管理的 Wi-Fi 清單、加密的 Wi-Fi 密碼、切換紀錄）：只存在您的手機，開發者無法取得。移除本 App，或在系統設定 → 應用程式 → Auto Wi-Fi Switcher → 儲存空間中「清除資料」，即全部刪除。
 2. **已送出的問題回報**（描述、選填的電子郵件、Android 版本、手機型號、診斷資訊）：請寄信到 bcjohnblue@gmail.com，主旨寫「刪除問題回報」，並附上送出的大約日期，以及回報時填的電子郵件或描述內容，以便找到那一筆。我們會在 30 天內刪除並回信確認。
 
 問題回報只用於回覆與修正問題，處理完畢後最多保留 12 個月即自動刪除。
@@ -59,7 +59,7 @@ Auto Wi-Fi Switcher ("the app") is developed by an individual developer, bcjohn.
 | Nearby Wi-Fi scan results (name, access point address, signal strength) | Decide whether a stronger Wi-Fi is available | Processed in memory only, not stored |
 | Location permission (including background) | Android requires location permission to read Wi-Fi scan results; background location lets monitoring resume after a reboot. The app **never obtains, computes or stores your geographic position** | N/A |
 | Wi-Fi passwords you enter in the app (automatic mode only) | Handed to Android so it can connect automatically | Encrypted on device with an AES-GCM key held in the Android Keystore, excluded from cloud backup, never transmitted |
-| Switch log (time, source and target Wi-Fi, signal) | Show the latest switch and the switch log | Local database on device, deleted automatically after 30 days; you can also clear it on the switch log screen |
+| Switch log (time, source and target Wi-Fi, signal) | Show the latest switch and the switch log | Local database on device, deleted automatically after 30 days |
 | Purchase state | Determine Pro entitlement | Provided by Google Play; the app only caches "is Pro" |
 
 ### Problem reports (only when you tap Send)
@@ -81,7 +81,7 @@ Diagnostics **never include** access point addresses, Wi-Fi passwords, your loca
 
 Auto Wi-Fi Switcher has no accounts. There are two kinds of data:
 
-1. **Data on your phone** (settings, your managed Wi-Fi list, encrypted Wi-Fi passwords, the switch log) stays on your phone and never reaches the developer. Uninstall the app, or go to system Settings → Apps → Auto Wi-Fi Switcher → Storage and tap Clear data, to delete all of it. You can also clear the switch log from the app's Switch log screen.
+1. **Data on your phone** (settings, your managed Wi-Fi list, encrypted Wi-Fi passwords, the switch log) stays on your phone and never reaches the developer. Uninstall the app, or go to system Settings → Apps → Auto Wi-Fi Switcher → Storage and tap Clear data, to delete all of it.
 2. **Problem reports you sent** (description, optional email, Android version, phone model, diagnostics): email bcjohnblue@gmail.com with the subject "Delete problem report", the approximate date you sent it, and the email or description you entered so we can find it. We delete it within 30 days and reply to confirm.
 
 Problem reports are used only to answer and fix the issue and are deleted automatically at most 12 months after it is resolved.
